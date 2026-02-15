@@ -1,0 +1,15 @@
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+queue_test\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+queue_test\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+queue_test\timers.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+queue_test\timers.o: ../Core/Inc/FreeRTOSConfig.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+queue_test\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
